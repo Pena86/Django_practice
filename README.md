@@ -21,3 +21,5 @@ https://docs.djangoproject.com/en/1.8/topics/http/shortcuts/#django.shortcuts.re
 
 https://docs.djangoproject.com/en/1.8/intro/tutorial04/
 form
+https://docs.djangoproject.com/en/1.8/intro/tutorial04/#amend-views
+generic views (amend = muuttaa)
