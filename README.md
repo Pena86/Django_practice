@@ -23,3 +23,8 @@ https://docs.djangoproject.com/en/1.8/intro/tutorial04/
 form
 https://docs.djangoproject.com/en/1.8/intro/tutorial04/#amend-views
 generic views (amend = muuttaa)
+
+https://docs.djangoproject.com/en/1.8/intro/tutorial05/
+tests -v 3
+https://docs.djangoproject.com/en/1.8/intro/tutorial05/#the-django-test-client
+https://docs.djangoproject.com/en/1.8/topics/testing/
