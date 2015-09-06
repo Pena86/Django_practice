@@ -18,3 +18,6 @@ https://docs.djangoproject.com/en/1.8/intro/tutorial03/
 views
 urls
 https://docs.djangoproject.com/en/1.8/topics/http/shortcuts/#django.shortcuts.render
+
+https://docs.djangoproject.com/en/1.8/intro/tutorial04/
+form
