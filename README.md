@@ -25,3 +25,6 @@ Practice django server
 - tests -v 3
 - https://docs.djangoproject.com/en/1.8/intro/tutorial05/#the-django-test-client
 - https://docs.djangoproject.com/en/1.8/topics/testing/
+
+[Part 6](https://docs.djangoproject.com/en/1.8/intro/tutorial06/)
+- static files
