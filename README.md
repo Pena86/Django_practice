@@ -8,3 +8,5 @@ https://docs.djangoproject.com/en/1.11/intro/
 
 [Part 2](https://docs.djangoproject.com/en/1.11/intro/tutorial02/)
 
+[Part 3](https://docs.djangoproject.com/en/1.11/intro/tutorial03/)
+
