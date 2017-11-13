@@ -15,3 +15,5 @@ https://docs.djangoproject.com/en/1.11/intro/
 [Part 5](https://docs.djangoproject.com/en/1.11/intro/tutorial05/)
 
 [Part 6](https://docs.djangoproject.com/en/1.11/intro/tutorial06/)
+
+[Part 7](https://docs.djangoproject.com/en/1.11/intro/tutorial07/)
