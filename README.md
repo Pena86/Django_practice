@@ -6,9 +6,11 @@ https://docs.djangoproject.com/en/1.11/intro/
 
 [Part 1](https://docs.djangoproject.com/en/1.11/intro/tutorial01/)
 - Create a pricect
-- Dev server
+- Dev server: python -Wall manage.py runserver
 - Dreate an app
 - Views
+- python manage.py shell
+- python manage.py help
 
 [Part 2](https://docs.djangoproject.com/en/1.11/intro/tutorial02/)
 - Database
@@ -25,7 +27,7 @@ https://docs.djangoproject.com/en/1.11/intro/
 - Generic views
 
 [Part 5](https://docs.djangoproject.com/en/1.11/intro/tutorial05/)
-- Testing
+- Testing python manage.py test
 
 [Part 6](https://docs.djangoproject.com/en/1.11/intro/tutorial06/)
 - Customize app
