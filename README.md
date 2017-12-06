@@ -31,3 +31,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 - URL patterns
 - generic list pagination
 
+[Part 7](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Sessions)
+- session
+
+
