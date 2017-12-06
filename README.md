@@ -26,3 +26,8 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 - templates
 - static
 
+[Part 6](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views)
+- generic views
+- URL patterns
+- generic list pagination
+
