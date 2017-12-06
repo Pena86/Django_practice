@@ -34,4 +34,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 [Part 7](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Sessions)
 - session
 
+[Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication)
+- autentication
+- premissions
 
