@@ -20,3 +20,9 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 - https://docs.djangoproject.com/en/1.11/ref/contrib/admin/
 - Register a ModelAdmin class
 
+[Part 5](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page)
+- URL
+- views
+- templates
+- static
+
