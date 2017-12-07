@@ -47,3 +47,15 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 - testing python manage.py test --verbosity 2
 - other tools: Coverage, Selenium
 
+[Part 11](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)
+- deploying to production
+- www.heroku.com www.pythonanywhere.com cloud.google.com
+- http://gunicorn.org/
+- https://pypi.org/project/whitenoise/
+- security basics
+- python manage.py check --deploy
+
+[Web security](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/web_application_security)
+- https://docs.djangoproject.com/en/1.11/topics/security/
+- https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site
+
