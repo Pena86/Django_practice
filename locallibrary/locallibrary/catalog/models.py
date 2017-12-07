@@ -56,6 +56,7 @@ class Book(models.Model):
 
 import uuid # Required for unique book instances
 from django.contrib.auth.models import User
+from datetime import date
 
 class BookInstance(models.Model):
     """

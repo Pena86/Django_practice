@@ -38,3 +38,9 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 - autentication
 - premissions
 
+[Part 9](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)
+- forms, modelForms
+- widgets https://docs.djangoproject.com/en/1.11/ref/forms/widgets/
+- translations (side note) https://docs.djangoproject.com/en/1.11/topics/i18n/translation/
+
+
