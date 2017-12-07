@@ -43,4 +43,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 - widgets https://docs.djangoproject.com/en/1.11/ref/forms/widgets/
 - translations (side note) https://docs.djangoproject.com/en/1.11/topics/i18n/translation/
 
+[Part 10](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing)
+- testing python manage.py test --verbosity 2
+- other tools: Coverage, Selenium
 
